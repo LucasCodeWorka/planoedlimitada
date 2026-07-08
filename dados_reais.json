@@ -1,0 +1,8043 @@
+{
+  "filterOptions": {
+    "empresas": [
+      "TODAS",
+      "BARRA",
+      "DOM LUIS",
+      "ECOMMERCE",
+      "IGUATEMI",
+      "MARAPONGA",
+      "MORUMBI",
+      "NORTH",
+      "NORTH JOQUEI",
+      "PARANGABA",
+      "PORTO ALEGRE",
+      "RIO MAR RECIFE",
+      "SALVADOR",
+      "TABOSA"
+    ],
+    "familias": [
+      "TODAS",
+      "AFTER SUN",
+      "AQUALUME",
+      "BLOOM",
+      "CETIM",
+      "CONFORT VANILLA",
+      "FLOR DO OCEANO",
+      "KISS ME",
+      "KISS ME PLUS",
+      "LACE",
+      "LOVE APPEAL",
+      "LOVELY",
+      "NOIVAS",
+      "PORTELLE",
+      "VISCOW",
+      "WISHES"
+    ],
+    "linhas": [
+      "TODAS",
+      "FASHION",
+      "LOUNGEWEAR",
+      "LUXE"
+    ],
+    "grupos": [
+      "TODAS",
+      "BODY",
+      "CALCA",
+      "CAMISOLA",
+      "CINTA",
+      "CROPPED",
+      "ROBE",
+      "SHORT DOLL",
+      "SUTIA",
+      "TOP"
+    ],
+    "continuidades": [
+      "TODAS",
+      "PERMANENTE",
+      "EDICAO LIMITADA"
+    ],
+    "colecoes": [
+      "TODAS",
+      "VERAO 27",
+      "VERAO 26"
+    ],
+    "meses": [
+      "TODOS",
+      "JULHO",
+      "AGOSTO",
+      "SETEMBRO",
+      "OUTUBRO"
+    ],
+    "referencias": [
+      "TODAS",
+      "501021",
+      "501049",
+      "501149",
+      "501220",
+      "501749",
+      "503049",
+      "503149",
+      "503449",
+      "506120",
+      "601084",
+      "601284",
+      "601784",
+      "603184",
+      "603584",
+      "604084",
+      "701184",
+      "701720",
+      "701749",
+      "703049",
+      "703384"
+    ]
+  },
+  "kpiData": {
+    "plano2026": 27130,
+    "plano2026Original": 27130,
+    "venda2025": 24695,
+    "inverno26": 0,
+    "inverno25": 0,
+    "altoInverno26": 0,
+    "altoInverno25": 0
+  },
+  "grupoData": [
+    {
+      "nome": "CALCA",
+      "valor": 13418
+    },
+    {
+      "nome": "SUTIA",
+      "valor": 5657
+    },
+    {
+      "nome": "CAMISOLA",
+      "valor": 1948
+    },
+    {
+      "nome": "BODY",
+      "valor": 432
+    },
+    {
+      "nome": "CINTA",
+      "valor": 171
+    },
+    {
+      "nome": "SHORT DOLL",
+      "valor": 107
+    },
+    {
+      "nome": "CROPPED",
+      "valor": 97
+    },
+    {
+      "nome": "ROBE",
+      "valor": 28
+    },
+    {
+      "nome": "TOP",
+      "valor": 0
+    }
+  ],
+  "grupoData2025": [
+    {
+      "nome": "CALCA",
+      "valor": 12949
+    },
+    {
+      "nome": "SUTIA",
+      "valor": 5352
+    },
+    {
+      "nome": "CAMISOLA",
+      "valor": 1380
+    },
+    {
+      "nome": "SEM COSTURA",
+      "valor": 930
+    },
+    {
+      "nome": "BODY",
+      "valor": 465
+    },
+    {
+      "nome": "CROPPED",
+      "valor": 385
+    },
+    {
+      "nome": "SHORT DOLL",
+      "valor": 194
+    },
+    {
+      "nome": "ROBE",
+      "valor": 35
+    }
+  ],
+  "familiaData": {
+    "nome": "CONFORT VANILLA",
+    "vendas2025": [
+      1100,
+      538,
+      582,
+      312,
+      852,
+      276,
+      255,
+      214,
+      177,
+      184,
+      84,
+      212,
+      69
+    ],
+    "plano2026": [
+      1210,
+      591,
+      640,
+      343,
+      937,
+      303,
+      280,
+      235,
+      194,
+      202,
+      92,
+      233,
+      75
+    ]
+  },
+  "familiaData2025": [
+    {
+      "nome": "KISS ME",
+      "valor": 4044
+    },
+    {
+      "nome": "BASICOS",
+      "valor": 3845
+    },
+    {
+      "nome": "MARINE",
+      "valor": 2621
+    },
+    {
+      "nome": "BELLA",
+      "valor": 2320
+    },
+    {
+      "nome": "SORRENTINA",
+      "valor": 2168
+    },
+    {
+      "nome": "SICILIA",
+      "valor": 2140
+    },
+    {
+      "nome": "WISHES",
+      "valor": 1446
+    },
+    {
+      "nome": "DELICATTI",
+      "valor": 1425
+    },
+    {
+      "nome": "VISCOW",
+      "valor": 823
+    },
+    {
+      "nome": "KISS ME PLUS",
+      "valor": 443
+    },
+    {
+      "nome": "BREEZE",
+      "valor": 227
+    },
+    {
+      "nome": "BASICOS PLUS",
+      "valor": 107
+    },
+    {
+      "nome": "CETIM",
+      "valor": 78
+    },
+    {
+      "nome": "NOIR",
+      "valor": 2
+    },
+    {
+      "nome": "COTTON ON",
+      "valor": 1
+    }
+  ],
+  "linhaData": [
+    {
+      "nome": "FASHION",
+      "valor": 11687
+    },
+    {
+      "nome": "LUXE",
+      "valor": 9067
+    },
+    {
+      "nome": "LOUNGEWEAR",
+      "valor": 1105
+    }
+  ],
+  "linhaData2025": [
+    {
+      "nome": "FASHION",
+      "valor": 9696
+    },
+    {
+      "nome": "LUXE",
+      "valor": 6386
+    },
+    {
+      "nome": "CONFORT",
+      "valor": 3022
+    },
+    {
+      "nome": "FREE",
+      "valor": 930
+    },
+    {
+      "nome": "LOUNGEWEAR",
+      "valor": 903
+    },
+    {
+      "nome": "T.MAIORES",
+      "valor": 525
+    },
+    {
+      "nome": "SOFT",
+      "valor": 228
+    }
+  ],
+  "subgrupoData": [
+    {
+      "nome": "CALCINHA FIO DENTAL",
+      "valor": 6892
+    },
+    {
+      "nome": "SUTIA MEIA TACA",
+      "valor": 2079
+    },
+    {
+      "nome": "CALCINHA STRING",
+      "valor": 1995
+    },
+    {
+      "nome": "CAMISOLA CURTA",
+      "valor": 1932
+    },
+    {
+      "nome": "CALCINHA BIQUINI",
+      "valor": 1831
+    },
+    {
+      "nome": "CALCINHA TANGA",
+      "valor": 1812
+    },
+    {
+      "nome": "SUTIA PUSH UP (COM BOLHA)",
+      "valor": 1357
+    },
+    {
+      "nome": "CALCINHA ALTA",
+      "valor": 852
+    },
+    {
+      "nome": "SUTIA TRIANGULAR",
+      "valor": 647
+    },
+    {
+      "nome": "SUTIA SEM BOJO",
+      "valor": 598
+    },
+    {
+      "nome": "SUTIA CROPPED",
+      "valor": 485
+    },
+    {
+      "nome": "BODY",
+      "valor": 432
+    },
+    {
+      "nome": "SUTIA BALCONET",
+      "valor": 388
+    },
+    {
+      "nome": "SUTIA DECOTE",
+      "valor": 197
+    },
+    {
+      "nome": "CINTA LIGA",
+      "valor": 171
+    },
+    {
+      "nome": "SHORT DOLL",
+      "valor": 91
+    },
+    {
+      "nome": "CALCINHA LARGA",
+      "valor": 32
+    },
+    {
+      "nome": "ROBE",
+      "valor": 28
+    },
+    {
+      "nome": "DOLL",
+      "valor": 15
+    },
+    {
+      "nome": "PIJAMAS",
+      "valor": 15
+    },
+    {
+      "nome": "TOP",
+      "valor": 0
+    }
+  ],
+  "subgrupoData2025": [
+    {
+      "nome": "CALCINHA FIO DENTAL",
+      "valor": 7642
+    },
+    {
+      "nome": "CALCINHA TANGA",
+      "valor": 2103
+    },
+    {
+      "nome": "CALCINHA ALTA",
+      "valor": 1801
+    },
+    {
+      "nome": "SUTIA SEM BOJO",
+      "valor": 1671
+    },
+    {
+      "nome": "CALCINHA BIQUINI",
+      "valor": 1341
+    },
+    {
+      "nome": "SUTIA MEIA TACA",
+      "valor": 1331
+    },
+    {
+      "nome": "CAMISOLA CURTA",
+      "valor": 1297
+    },
+    {
+      "nome": "SUTIA TRIANGULAR",
+      "valor": 1010
+    },
+    {
+      "nome": "SUTIA PUSH UP (COM BOLHA)",
+      "valor": 788
+    },
+    {
+      "nome": "CALCINHA STRING",
+      "valor": 707
+    },
+    {
+      "nome": "SUTIA CROPPED",
+      "valor": 491
+    },
+    {
+      "nome": "BODY",
+      "valor": 465
+    },
+    {
+      "nome": "SUTIA BALCONET",
+      "valor": 446
+    },
+    {
+      "nome": "CALCINHA LARGA",
+      "valor": 285
+    },
+    {
+      "nome": "SHORT DOLL",
+      "valor": 104
+    },
+    {
+      "nome": "DOLL",
+      "valor": 90
+    },
+    {
+      "nome": "PIJAMAS",
+      "valor": 83
+    },
+    {
+      "nome": "ROBE",
+      "valor": 35
+    }
+  ],
+  "refData": [
+    {
+      "nome": "REF-501201",
+      "valor": 1106
+    },
+    {
+      "nome": "REF-501004",
+      "valor": 1106
+    },
+    {
+      "nome": "REF-601084",
+      "valor": 667
+    },
+    {
+      "nome": "REF-501749",
+      "valor": 592
+    },
+    {
+      "nome": "REF-501220",
+      "valor": 587
+    },
+    {
+      "nome": "REF-601784",
+      "valor": 572
+    },
+    {
+      "nome": "REF-601284",
+      "valor": 572
+    },
+    {
+      "nome": "REF-701184",
+      "valor": 482
+    },
+    {
+      "nome": "REF-601283",
+      "valor": 451
+    },
+    {
+      "nome": "REF-601783",
+      "valor": 451
+    },
+    {
+      "nome": "REF-701720",
+      "valor": 410
+    },
+    {
+      "nome": "REF-601786",
+      "valor": 407
+    },
+    {
+      "nome": "REF-601286",
+      "valor": 407
+    },
+    {
+      "nome": "REF-603184",
+      "valor": 388
+    },
+    {
+      "nome": "REF-603584",
+      "valor": 388
+    },
+    {
+      "nome": "REF-604084",
+      "valor": 388
+    },
+    {
+      "nome": "REF-501049",
+      "valor": 369
+    },
+    {
+      "nome": "REF-501723",
+      "valor": 366
+    },
+    {
+      "nome": "REF-501715",
+      "valor": 366
+    },
+    {
+      "nome": "REF-501701",
+      "valor": 366
+    },
+    {
+      "nome": "REF-506124",
+      "valor": 358
+    },
+    {
+      "nome": "REF-501745",
+      "valor": 349
+    },
+    {
+      "nome": "REF-501742",
+      "valor": 349
+    },
+    {
+      "nome": "REF-501602",
+      "valor": 340
+    },
+    {
+      "nome": "REF-501302",
+      "valor": 340
+    },
+    {
+      "nome": "REF-503303",
+      "valor": 335
+    },
+    {
+      "nome": "REF-503149",
+      "valor": 335
+    },
+    {
+      "nome": "REF-503120",
+      "valor": 335
+    },
+    {
+      "nome": "REF-503320",
+      "valor": 327
+    },
+    {
+      "nome": "REF-503001",
+      "valor": 326
+    },
+    {
+      "nome": "REF-506120",
+      "valor": 324
+    },
+    {
+      "nome": "REF-503449",
+      "valor": 315
+    },
+    {
+      "nome": "REF-136118",
+      "valor": 311
+    },
+    {
+      "nome": "REF-136218",
+      "valor": 311
+    },
+    {
+      "nome": "REF-601782",
+      "valor": 302
+    },
+    {
+      "nome": "REF-601754",
+      "valor": 300
+    },
+    {
+      "nome": "REF-601764",
+      "valor": 299
+    },
+    {
+      "nome": "REF-606186",
+      "valor": 296
+    },
+    {
+      "nome": "REF-701749",
+      "valor": 265
+    },
+    {
+      "nome": "REF-606682",
+      "valor": 265
+    },
+    {
+      "nome": "REF-501021",
+      "valor": 259
+    },
+    {
+      "nome": "REF-703384",
+      "valor": 253
+    },
+    {
+      "nome": "REF-501003",
+      "valor": 253
+    },
+    {
+      "nome": "REF-503049",
+      "valor": 248
+    },
+    {
+      "nome": "REF-603083",
+      "valor": 227
+    },
+    {
+      "nome": "REF-703049",
+      "valor": 225
+    },
+    {
+      "nome": "REF-703320",
+      "valor": 225
+    },
+    {
+      "nome": "REF-603086",
+      "valor": 218
+    },
+    {
+      "nome": "REF-601785",
+      "valor": 203
+    },
+    {
+      "nome": "REF-603382",
+      "valor": 197
+    },
+    {
+      "nome": "REF-603082",
+      "valor": 186
+    },
+    {
+      "nome": "REF-603182",
+      "valor": 186
+    },
+    {
+      "nome": "REF-603483",
+      "valor": 173
+    },
+    {
+      "nome": "REF-501700",
+      "valor": 171
+    },
+    {
+      "nome": "REF-606683",
+      "valor": 167
+    },
+    {
+      "nome": "REF-501149",
+      "valor": 149
+    },
+    {
+      "nome": "REF-601083",
+      "valor": 136
+    },
+    {
+      "nome": "REF-606786",
+      "valor": 126
+    },
+    {
+      "nome": "REF-501000",
+      "valor": 126
+    },
+    {
+      "nome": "REF-603185",
+      "valor": 111
+    },
+    {
+      "nome": "REF-136117",
+      "valor": 104
+    },
+    {
+      "nome": "REF-136112",
+      "valor": 104
+    },
+    {
+      "nome": "REF-603583",
+      "valor": 97
+    },
+    {
+      "nome": "REF-136119",
+      "valor": 85
+    },
+    {
+      "nome": "REF-701708",
+      "valor": 78
+    },
+    {
+      "nome": "REF-701709",
+      "valor": 78
+    },
+    {
+      "nome": "REF-503400",
+      "valor": 58
+    },
+    {
+      "nome": "REF-703302",
+      "valor": 55
+    },
+    {
+      "nome": "REF-601085",
+      "valor": 50
+    },
+    {
+      "nome": "REF-606775",
+      "valor": 44
+    },
+    {
+      "nome": "REF-603385",
+      "valor": 44
+    },
+    {
+      "nome": "REF-703402",
+      "valor": 44
+    },
+    {
+      "nome": "REF-701306",
+      "valor": 42
+    },
+    {
+      "nome": "REF-136221",
+      "valor": 39
+    },
+    {
+      "nome": "REF-136121",
+      "valor": 39
+    },
+    {
+      "nome": "REF-136109",
+      "valor": 35
+    },
+    {
+      "nome": "REF-703010",
+      "valor": 32
+    },
+    {
+      "nome": "REF-701502",
+      "valor": 32
+    },
+    {
+      "nome": "REF-136910",
+      "valor": 28
+    },
+    {
+      "nome": "REF-703305",
+      "valor": 25
+    },
+    {
+      "nome": "REF-136213",
+      "valor": 15
+    },
+    {
+      "nome": "REF-136113",
+      "valor": 15
+    },
+    {
+      "nome": "REF-136219",
+      "valor": 8
+    },
+    {
+      "nome": "REF-136209",
+      "valor": 3
+    },
+    {
+      "nome": "REF-503503",
+      "valor": 0
+    },
+    {
+      "nome": "REF-503810",
+      "valor": 0
+    },
+    {
+      "nome": "REF-603586",
+      "valor": 0
+    }
+  ],
+  "refData2025": [
+    {
+      "nome": "REF-501746",
+      "valor": 1374
+    },
+    {
+      "nome": "REF-201301",
+      "valor": 841
+    },
+    {
+      "nome": "REF-501701",
+      "valor": 765
+    },
+    {
+      "nome": "REF-601276",
+      "valor": 707
+    },
+    {
+      "nome": "REF-501741",
+      "valor": 691
+    },
+    {
+      "nome": "REF-601275",
+      "valor": 628
+    },
+    {
+      "nome": "REF-101700",
+      "valor": 614
+    },
+    {
+      "nome": "REF-501003",
+      "valor": 571
+    },
+    {
+      "nome": "REF-503303",
+      "valor": 567
+    },
+    {
+      "nome": "REF-101500",
+      "valor": 534
+    },
+    {
+      "nome": "REF-301103",
+      "valor": 500
+    },
+    {
+      "nome": "REF-601776",
+      "valor": 489
+    },
+    {
+      "nome": "REF-504041",
+      "valor": 446
+    },
+    {
+      "nome": "REF-603376",
+      "valor": 439
+    },
+    {
+      "nome": "REF-301701",
+      "valor": 430
+    },
+    {
+      "nome": "REF-503001",
+      "valor": 429
+    },
+    {
+      "nome": "REF-601274",
+      "valor": 419
+    },
+    {
+      "nome": "REF-501041",
+      "valor": 418
+    },
+    {
+      "nome": "REF-601775",
+      "valor": 412
+    },
+    {
+      "nome": "REF-501602",
+      "valor": 407
+    },
+    {
+      "nome": "REF-506141",
+      "valor": 405
+    },
+    {
+      "nome": "REF-601774",
+      "valor": 394
+    },
+    {
+      "nome": "REF-603475",
+      "valor": 390
+    },
+    {
+      "nome": "REF-201702",
+      "valor": 383
+    },
+    {
+      "nome": "REF-503141",
+      "valor": 378
+    },
+    {
+      "nome": "REF-603375",
+      "valor": 370
+    },
+    {
+      "nome": "REF-503400",
+      "valor": 334
+    },
+    {
+      "nome": "REF-501700",
+      "valor": 324
+    },
+    {
+      "nome": "REF-101000",
+      "valor": 317
+    },
+    {
+      "nome": "REF-606176",
+      "valor": 301
+    },
+    {
+      "nome": "REF-601075",
+      "valor": 291
+    },
+    {
+      "nome": "REF-606674",
+      "valor": 280
+    },
+    {
+      "nome": "REF-501715",
+      "valor": 272
+    },
+    {
+      "nome": "REF-501302",
+      "valor": 229
+    },
+    {
+      "nome": "REF-603374",
+      "valor": 217
+    },
+    {
+      "nome": "REF-103101",
+      "valor": 206
+    },
+    {
+      "nome": "REF-603174",
+      "valor": 204
+    },
+    {
+      "nome": "REF-601074",
+      "valor": 202
+    },
+    {
+      "nome": "REF-603576",
+      "valor": 199
+    },
+    {
+      "nome": "REF-503443",
+      "valor": 196
+    },
+    {
+      "nome": "REF-136118",
+      "valor": 193
+    },
+    {
+      "nome": "REF-501543",
+      "valor": 187
+    },
+    {
+      "nome": "REF-606676",
+      "valor": 185
+    },
+    {
+      "nome": "REF-603474",
+      "valor": 182
+    },
+    {
+      "nome": "REF-503043",
+      "valor": 175
+    },
+    {
+      "nome": "REF-136218",
+      "valor": 163
+    },
+    {
+      "nome": "REF-703341",
+      "valor": 152
+    },
+    {
+      "nome": "REF-501000",
+      "valor": 146
+    },
+    {
+      "nome": "REF-136112",
+      "valor": 142
+    },
+    {
+      "nome": "REF-501743",
+      "valor": 139
+    },
+    {
+      "nome": "REF-701574",
+      "valor": 133
+    },
+    {
+      "nome": "REF-701141",
+      "valor": 131
+    },
+    {
+      "nome": "REF-501739",
+      "valor": 116
+    },
+    {
+      "nome": "REF-703305",
+      "valor": 112
+    },
+    {
+      "nome": "REF-211303",
+      "valor": 109
+    },
+    {
+      "nome": "REF-503539",
+      "valor": 109
+    },
+    {
+      "nome": "REF-703374",
+      "valor": 109
+    },
+    {
+      "nome": "REF-503543",
+      "valor": 106
+    },
+    {
+      "nome": "REF-701709",
+      "valor": 101
+    },
+    {
+      "nome": "REF-136117",
+      "valor": 93
+    },
+    {
+      "nome": "REF-503439",
+      "valor": 90
+    },
+    {
+      "nome": "REF-136213",
+      "valor": 90
+    },
+    {
+      "nome": "REF-501043",
+      "valor": 89
+    },
+    {
+      "nome": "REF-701302",
+      "valor": 88
+    },
+    {
+      "nome": "REF-136113",
+      "valor": 83
+    },
+    {
+      "nome": "REF-503039",
+      "valor": 82
+    },
+    {
+      "nome": "REF-603575",
+      "valor": 77
+    },
+    {
+      "nome": "REF-211703",
+      "valor": 75
+    },
+    {
+      "nome": "REF-501720",
+      "valor": 72
+    },
+    {
+      "nome": "REF-501039",
+      "valor": 68
+    },
+    {
+      "nome": "REF-501539",
+      "valor": 68
+    },
+    {
+      "nome": "REF-136219",
+      "valor": 59
+    },
+    {
+      "nome": "REF-703010",
+      "valor": 58
+    },
+    {
+      "nome": "REF-703302",
+      "valor": 48
+    },
+    {
+      "nome": "REF-701306",
+      "valor": 45
+    },
+    {
+      "nome": "REF-211003",
+      "valor": 43
+    },
+    {
+      "nome": "REF-703402",
+      "valor": 42
+    },
+    {
+      "nome": "REF-701502",
+      "valor": 37
+    },
+    {
+      "nome": "REF-136121",
+      "valor": 34
+    },
+    {
+      "nome": "REF-136910",
+      "valor": 31
+    },
+    {
+      "nome": "REF-103009",
+      "valor": 20
+    },
+    {
+      "nome": "REF-701702",
+      "valor": 13
+    },
+    {
+      "nome": "REF-136221",
+      "valor": 11
+    },
+    {
+      "nome": "REF-701507",
+      "valor": 6
+    },
+    {
+      "nome": "REF-136908",
+      "valor": 2
+    },
+    {
+      "nome": "REF-136909",
+      "valor": 2
+    },
+    {
+      "nome": "REF-211002",
+      "valor": 1
+    }
+  ],
+  "mesProducaoData": [
+    {
+      "mes": "JULHO",
+      "valor": 5015
+    },
+    {
+      "mes": "AGOSTO",
+      "valor": 16686
+    },
+    {
+      "mes": "SETEMBRO",
+      "valor": 1580
+    },
+    {
+      "mes": "OUTUBRO",
+      "valor": 3918
+    }
+  ],
+  "mesVenda2025Data": [
+    {
+      "mes": "JULHO",
+      "valor": 9262
+    },
+    {
+      "mes": "AGOSTO",
+      "valor": 9557
+    },
+    {
+      "mes": "OUTUBRO",
+      "valor": 2871
+    }
+  ],
+  "planoEdicaoLimitadaData": [
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "NECTAR",
+      "tam": "G",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "NECTAR",
+      "tam": "GG",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "NECTAR",
+      "tam": "M",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501149 - CALCINHA BIQUINI",
+      "cor": "NECTAR",
+      "tam": "P",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701749 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "EG",
+      "plano": 62
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701749 - CALCINHA FIO DENTAL",
+      "cor": "NECTAR",
+      "tam": "EG",
+      "plano": 62
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "NECTAR",
+      "tam": "G",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "NECTAR",
+      "tam": "GG",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701749 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701749 - CALCINHA FIO DENTAL",
+      "cor": "NECTAR",
+      "tam": "GG",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 115
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "NECTAR",
+      "tam": "M",
+      "plano": 115
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 101
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501749 - CALCINHA FIO DENTAL",
+      "cor": "NECTAR",
+      "tam": "P",
+      "plano": 101
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701749 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "XG",
+      "plano": 62
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701749 - CALCINHA FIO DENTAL",
+      "cor": "NECTAR",
+      "tam": "XG",
+      "plano": 62
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "NECTAR",
+      "tam": "G",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "NECTAR",
+      "tam": "GG",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 72
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "NECTAR",
+      "tam": "M",
+      "plano": 72
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501049 - CALCINHA TANGA",
+      "cor": "NECTAR",
+      "tam": "P",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "42",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "44",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "50",
+      "plano": 39
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "50",
+      "plano": 39
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "52",
+      "plano": 39
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703049 - SUTIA MEIA TACA",
+      "cor": "NECTAR",
+      "tam": "52",
+      "plano": 39
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "40",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "NECTAR",
+      "tam": "40",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 61
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "NECTAR",
+      "tam": "42",
+      "plano": 61
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 49
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "NECTAR",
+      "tam": "44",
+      "plano": 49
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503149 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "NECTAR",
+      "tam": "46",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "40",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "NECTAR",
+      "tam": "40",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "40",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "NECTAR",
+      "tam": "42",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "42",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "NECTAR",
+      "tam": "44",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "44",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "NECTAR",
+      "tam": "46",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AFTER SUN",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503449 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "46",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701184 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "EG",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701184 - CALCINHA BIQUINI",
+      "cor": "OCEANO",
+      "tam": "EG",
+      "plano": 96
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701184 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701184 - CALCINHA BIQUINI",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 96
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701184 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "XG",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701184 - CALCINHA BIQUINI",
+      "cor": "OCEANO",
+      "tam": "XG",
+      "plano": 96
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 44
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "G",
+      "plano": 66
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 44
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "G",
+      "plano": 66
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 55
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 84
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 55
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 84
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 75
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "M",
+      "plano": 112
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 75
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "M",
+      "plano": 112
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 53
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601284 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "P",
+      "plano": 80
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 53
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601784 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "P",
+      "plano": 80
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 47
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "G",
+      "plano": 71
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 96
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 86
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "M",
+      "plano": 131
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 67
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601084 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "P",
+      "plano": 101
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 97
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 77
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 38
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 12
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA BALCONET",
+      "ref": "604084 - SUTIA BALCONET",
+      "cor": "OCEANO",
+      "tam": "48",
+      "plano": 18
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 97
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 77
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 38
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 12
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603584 - SUTIA CROPPED",
+      "cor": "OCEANO",
+      "tam": "48",
+      "plano": 18
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 12
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 18
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 29
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "OCEANO",
+      "tam": "48",
+      "plano": 44
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "50",
+      "plano": 29
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "OCEANO",
+      "tam": "50",
+      "plano": 44
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "52",
+      "plano": 29
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703384 - SUTIA MEIA TACA",
+      "cor": "OCEANO",
+      "tam": "52",
+      "plano": 44
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "40",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "40",
+      "plano": 97
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 77
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 38
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 12
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "AQUALUME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603184 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 18
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701720 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "EG",
+      "plano": 93
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701720 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "EG",
+      "plano": 93
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701720 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701720 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701720 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "XG",
+      "plano": 93
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701720 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "XG",
+      "plano": 93
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "OCEANO",
+      "tam": "G",
+      "plano": 71
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 71
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "OCEANO",
+      "tam": "M",
+      "plano": 121
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 121
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "OCEANO",
+      "tam": "P",
+      "plano": 85
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501220 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 85
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "G",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "M",
+      "plano": 53
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 53
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "OCEANO",
+      "tam": "P",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501021 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "OCEANO",
+      "tam": "48",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506120 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "40",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "40",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "503120 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 67
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 67
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 48
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 48
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 28
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "503320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "50",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "50",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "52",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "BLOOM",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "703320 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "52",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "ROBE",
+      "subgrupo": "ROBE",
+      "ref": "136910 - ROBE",
+      "cor": "AZUL AURA",
+      "tam": "G",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "ROBE",
+      "subgrupo": "ROBE",
+      "ref": "136910 - ROBE",
+      "cor": "AZUL AURA",
+      "tam": "GG",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "ROBE",
+      "subgrupo": "ROBE",
+      "ref": "136910 - ROBE",
+      "cor": "AZUL AURA",
+      "tam": "M",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "ROBE",
+      "subgrupo": "ROBE",
+      "ref": "136910 - ROBE",
+      "cor": "AZUL AURA",
+      "tam": "P",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136121 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "G",
+      "plano": 6
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136221 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "G",
+      "plano": 6
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136121 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136221 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136121 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "M",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136221 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "M",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136121 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "P",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CETIM",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136221 - SHORT DOLL",
+      "cor": "AZUL AURA",
+      "tam": "P",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606683 - BODY",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 47
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 47
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 47
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 47
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 97
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 97
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 97
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 97
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601283 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601783 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 24
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 24
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "601083 - CALCINHA TANGA",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 12
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 12
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603583 - SUTIA CROPPED",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "40",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "40",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 44
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 44
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603083 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "FLOR DO OCEANO",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "603483 - SUTIA TRIANGULAR",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501302 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 92
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501602 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 92
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501700 - CALCINHA ALTA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "G",
+      "plano": 46
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501302 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 48
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501602 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 48
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501700 - CALCINHA ALTA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "GG",
+      "plano": 24
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501302 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 140
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501602 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 140
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501700 - CALCINHA ALTA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "M",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501302 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 59
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501602 - CALCINHA ALTA",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 59
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "501700 - CALCINHA ALTA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "P",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501701 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 111
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501715 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 111
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501723 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 111
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501742 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 111
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501745 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 111
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501701 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501715 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501723 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501701 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 143
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501715 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 143
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501723 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 143
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501742 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 143
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501745 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 143
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501701 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 94
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501715 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 94
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501723 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 94
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501742 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 94
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "501745 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 94
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501000 - CALCINHA TANGA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "G",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501003 - CALCINHA TANGA",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501000 - CALCINHA TANGA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "GG",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501003 - CALCINHA TANGA",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501000 - CALCINHA TANGA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "M",
+      "plano": 52
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501003 - CALCINHA TANGA",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 104
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501000 - CALCINHA TANGA",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "P",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "501003 - CALCINHA TANGA",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 60
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503001 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "40",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503001 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "42",
+      "plano": 125
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503303 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "42",
+      "plano": 125
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503001 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "44",
+      "plano": 119
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503303 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "44",
+      "plano": 119
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503001 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "46",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503303 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "46",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "503303 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "48",
+      "plano": 25
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503400 - SUTIA TRIANGULAR",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "G",
+      "plano": 15
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503400 - SUTIA TRIANGULAR",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503400 - SUTIA TRIANGULAR",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "M",
+      "plano": 25
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "503400 - SUTIA TRIANGULAR",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "P",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "503810 - SUTIA CROPPED",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "503810 - SUTIA CROPPED",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "503810 - SUTIA CROPPED",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "503810 - SUTIA CROPPED",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "503503 - TOP",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "G",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "503503 - TOP",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "GG",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "503503 - TOP",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "M",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "503503 - TOP",
+      "cor": "ESTAMPADO BLOSSOM",
+      "tam": "P",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701306 - CALCINHA BIQUINI",
+      "cor": "VERDINHO",
+      "tam": "EG",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701306 - CALCINHA BIQUINI",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "701306 - CALCINHA BIQUINI",
+      "cor": "VERDINHO",
+      "tam": "XG",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701708 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "EG",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701709 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "EG",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701708 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701709 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701708 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "XG",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "701709 - CALCINHA FIO DENTAL",
+      "cor": "VERDINHO",
+      "tam": "XG",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA LARGA",
+      "ref": "701502 - CALCINHA LARGA",
+      "cor": "VERDINHO",
+      "tam": "EG",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA LARGA",
+      "ref": "701502 - CALCINHA LARGA",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 12
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA LARGA",
+      "ref": "701502 - CALCINHA LARGA",
+      "cor": "VERDINHO",
+      "tam": "XG",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703010 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "46",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703010 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "48",
+      "plano": 1
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703305 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "48",
+      "plano": 1
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703010 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "50",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703305 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "50",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703010 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "52",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703305 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "52",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703010 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "54",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "703305 - SUTIA MEIA TACA",
+      "cor": "VERDINHO",
+      "tam": "54",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703302 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "46",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703402 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "46",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703302 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "48",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703402 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "48",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703302 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "50",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703402 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "50",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703302 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "52",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703402 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "52",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "KISS ME PLUS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "703302 - SUTIA TRIANGULAR",
+      "cor": "VERDINHO",
+      "tam": "54",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136109 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "EG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136109 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "NAVY",
+      "tam": "G",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136109 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "NAVY",
+      "tam": "GG",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136109 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "NAVY",
+      "tam": "M",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136109 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "NAVY",
+      "tam": "P",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136119 - CAMISOLA CURTA",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136209 - SHORT DOLL",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136209 - SHORT DOLL",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136209 - SHORT DOLL",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LACE",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136209 - SHORT DOLL",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "LOVE",
+      "tam": "42",
+      "plano": 50
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 50
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "LOVE",
+      "tam": "44",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "LOVE",
+      "tam": "46",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "LOVE",
+      "tam": "48",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "BODY",
+      "subgrupo": "BODY",
+      "ref": "606682 - BODY",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 10
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601754 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601764 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "EG",
+      "plano": 1
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "EG",
+      "plano": 1
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "601782 - CALCINHA STRING",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 51
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "LOVE",
+      "tam": "40",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "PRETO",
+      "tam": "40",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "LOVE",
+      "tam": "42",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "LOVE",
+      "tam": "44",
+      "plano": 31
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 31
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "LOVE",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "LOVE",
+      "tam": "48",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA DECOTE",
+      "ref": "603382 - SUTIA DECOTE",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "42",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "44",
+      "plano": 31
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 31
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "48",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603082 - SUTIA MEIA TACA",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "LOVE",
+      "tam": "40",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "40",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "LOVE",
+      "tam": "42",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "LOVE",
+      "tam": "44",
+      "plano": 31
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 31
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "LOVE",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVE APPEAL",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603182 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 14
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 30
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 11
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 26
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 40
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 94
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 25
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "LOVELY",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "506124 - CAMISOLA CURTA",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 59
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 42
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 7
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 89
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 89
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 89
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 89
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601286 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601786 - CALCINHA FIO DENTAL",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 64
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "42",
+      "plano": 54
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 52
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "44",
+      "plano": 52
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 24
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "46",
+      "plano": 24
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "606186 - CAMISOLA CURTA",
+      "cor": "LOVE",
+      "tam": "48",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606786 - CINTA LIGA",
+      "cor": "BRANCO",
+      "tam": "G/GG",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606786 - CINTA LIGA",
+      "cor": "LOVE",
+      "tam": "G/GG",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606786 - CINTA LIGA",
+      "cor": "PRETO",
+      "tam": "G/GG",
+      "plano": 19
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606786 - CINTA LIGA",
+      "cor": "BRANCO",
+      "tam": "P/M",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606786 - CINTA LIGA",
+      "cor": "LOVE",
+      "tam": "P/M",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606786 - CINTA LIGA",
+      "cor": "PRETO",
+      "tam": "P/M",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "LOVE",
+      "tam": "42",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "LOVE",
+      "tam": "44",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "LOVE",
+      "tam": "46",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "CROPPED",
+      "subgrupo": "SUTIA CROPPED",
+      "ref": "603586 - SUTIA CROPPED",
+      "cor": "LOVE",
+      "tam": "48",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "42",
+      "plano": 50
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "42",
+      "plano": 50
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "44",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "44",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "46",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "46",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "BRANCO",
+      "tam": "48",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "NOIVAS",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "603086 - SUTIA MEIA TACA",
+      "cor": "LOVE",
+      "tam": "48",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "OCEANO",
+      "tam": "G",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "OCEANO",
+      "tam": "M",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "OCEANO",
+      "tam": "P",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "601085 - CALCINHA BIQUINI",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "G",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "G",
+      "plano": 23
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "GG",
+      "plano": 6
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "GG",
+      "plano": 6
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "M",
+      "plano": 38
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "M",
+      "plano": 38
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "OCEANO",
+      "tam": "P",
+      "plano": 33
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "601785 - CALCINHA FIO DENTAL",
+      "cor": "PRETO",
+      "tam": "P",
+      "plano": 33
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606775 - CINTA LIGA",
+      "cor": "OCEANO",
+      "tam": "U",
+      "plano": 22
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "CINTA",
+      "subgrupo": "CINTA LIGA",
+      "ref": "606775 - CINTA LIGA",
+      "cor": "PRETO",
+      "tam": "U",
+      "plano": 22
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "40",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "40",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 20
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 20
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "603185 - SUTIA PUSH UP (COM BOLHA)",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 8
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "42",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "42",
+      "plano": 9
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "44",
+      "plano": 6
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "44",
+      "plano": 6
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "46",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "46",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "OCEANO",
+      "tam": "48",
+      "plano": 2
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "PORTELLE",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA SEM BOJO",
+      "ref": "603385 - SUTIA SEM BOJO",
+      "cor": "PRETO",
+      "tam": "48",
+      "plano": 2
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136112 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "G",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136117 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "G",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "G",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "G",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "G",
+      "plano": 65
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "G",
+      "plano": 32
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136112 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136117 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "GG",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "GG",
+      "plano": 35
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "GG",
+      "plano": 17
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136112 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "M",
+      "plano": 37
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136117 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "M",
+      "plano": 37
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "M",
+      "plano": 74
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "M",
+      "plano": 37
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "M",
+      "plano": 74
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "M",
+      "plano": 37
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136112 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "P",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136117 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "P",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "P",
+      "plano": 33
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136118 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "P",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "LISTRADO",
+      "tam": "P",
+      "plano": 33
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "CAMISOLA CURTA",
+      "ref": "136218 - CAMISOLA CURTA",
+      "cor": "PEAR",
+      "tam": "P",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "PIJAMAS",
+      "ref": "136113 - PIJAMAS",
+      "cor": "PEAR",
+      "tam": "G",
+      "plano": 5
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "PIJAMAS",
+      "ref": "136113 - PIJAMAS",
+      "cor": "PEAR",
+      "tam": "GG",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "PIJAMAS",
+      "ref": "136113 - PIJAMAS",
+      "cor": "PEAR",
+      "tam": "M",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "CAMISOLA",
+      "subgrupo": "PIJAMAS",
+      "ref": "136113 - PIJAMAS",
+      "cor": "PEAR",
+      "tam": "P",
+      "plano": 1
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "DOLL",
+      "ref": "136213 - DOLL",
+      "cor": "PEAR",
+      "tam": "G",
+      "plano": 4
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "DOLL",
+      "ref": "136213 - DOLL",
+      "cor": "PEAR",
+      "tam": "GG",
+      "plano": 1
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "DOLL",
+      "ref": "136213 - DOLL",
+      "cor": "PEAR",
+      "tam": "M",
+      "plano": 6
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "DOLL",
+      "ref": "136213 - DOLL",
+      "cor": "PEAR",
+      "tam": "P",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136219 - SHORT DOLL",
+      "cor": "PEAR",
+      "tam": "G",
+      "plano": 3
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136219 - SHORT DOLL",
+      "cor": "PEAR",
+      "tam": "GG",
+      "plano": 2
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136219 - SHORT DOLL",
+      "cor": "PEAR",
+      "tam": "M",
+      "plano": 2
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "VISCOW",
+      "grupo": "SHORT DOLL",
+      "subgrupo": "SHORT DOLL",
+      "ref": "136219 - SHORT DOLL",
+      "cor": "PEAR",
+      "tam": "P",
+      "plano": 0
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 88
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LUMIAR",
+      "tam": "G",
+      "plano": 77
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 21
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LUMIAR",
+      "tam": "GG",
+      "plano": 18
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 124
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 99
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LUMIAR",
+      "tam": "M",
+      "plano": 107
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 99
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 85
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 68
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "LUMIAR",
+      "tam": "P",
+      "plano": 73
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "501004 - CALCINHA BIQUINI",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 68
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "BRANCO",
+      "tam": "G",
+      "plano": 88
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "G",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LUMIAR",
+      "tam": "G",
+      "plano": 77
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "VERDINHO",
+      "tam": "G",
+      "plano": 70
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "BRANCO",
+      "tam": "GG",
+      "plano": 21
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "GG",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LUMIAR",
+      "tam": "GG",
+      "plano": 18
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "VERDINHO",
+      "tam": "GG",
+      "plano": 16
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "BRANCO",
+      "tam": "M",
+      "plano": 124
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "M",
+      "plano": 99
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LUMIAR",
+      "tam": "M",
+      "plano": 107
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "VERDINHO",
+      "tam": "M",
+      "plano": 99
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "BRANCO",
+      "tam": "P",
+      "plano": 85
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LOVE",
+      "tam": "P",
+      "plano": 68
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "LUMIAR",
+      "tam": "P",
+      "plano": 73
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "WISHES",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA STRING",
+      "ref": "501201 - CALCINHA STRING",
+      "cor": "VERDINHO",
+      "tam": "P",
+      "plano": 68
+    }
+  ],
+  "comparativoLojasData": {
+    "lojas": [
+      "MARAPONGA",
+      "IGUATEMI",
+      "PORTO ALEGRE",
+      "BARRA",
+      "SALVADOR",
+      "RIO MAR RECIFE",
+      "MORUMBI",
+      "PARANGABA",
+      "DOM LUIS",
+      "NORTH",
+      "NORTH JOQUEI",
+      "ECOMMERCE",
+      "TABOSA"
+    ],
+    "familias": [
+      {
+        "nome": "KISS ME",
+        "vendas2025": [
+          732,
+          487,
+          516,
+          263,
+          714,
+          194,
+          229,
+          182,
+          193,
+          205,
+          87,
+          193,
+          49
+        ],
+        "plano2026": [
+          805,
+          535,
+          567,
+          289,
+          785,
+          213,
+          251,
+          200,
+          212,
+          225,
+          95,
+          212,
+          53
+        ]
+      },
+      {
+        "nome": "AQUALUME",
+        "vendas2025": [
+          645,
+          248,
+          223,
+          136,
+          452,
+          127,
+          90,
+          94,
+          72,
+          77,
+          53,
+          77,
+          26
+        ],
+        "plano2026": [
+          709,
+          272,
+          245,
+          149,
+          497,
+          139,
+          99,
+          103,
+          79,
+          84,
+          58,
+          84,
+          28
+        ]
+      },
+      {
+        "nome": "AFTER SUN",
+        "vendas2025": [
+          368,
+          298,
+          334,
+          178,
+          534,
+          183,
+          223,
+          146,
+          88,
+          88,
+          57,
+          112,
+          12
+        ],
+        "plano2026": [
+          404,
+          327,
+          367,
+          195,
+          587,
+          201,
+          245,
+          160,
+          96,
+          96,
+          62,
+          123,
+          13
+        ]
+      },
+      {
+        "nome": "BLOOM",
+        "vendas2025": [
+          503,
+          206,
+          290,
+          102,
+          353,
+          98,
+          99,
+          134,
+          88,
+          97,
+          60,
+          116,
+          22
+        ],
+        "plano2026": [
+          553,
+          226,
+          319,
+          112,
+          388,
+          107,
+          108,
+          147,
+          96,
+          106,
+          66,
+          127,
+          24
+        ]
+      },
+      {
+        "nome": "WISHES",
+        "vendas2025": [
+          600,
+          195,
+          82,
+          43,
+          180,
+          44,
+          38,
+          51,
+          84,
+          34,
+          22,
+          57,
+          16
+        ],
+        "plano2026": [
+          660,
+          214,
+          90,
+          47,
+          198,
+          48,
+          41,
+          56,
+          92,
+          37,
+          24,
+          62,
+          17
+        ]
+      },
+      {
+        "nome": "LOVE APPEAL",
+        "vendas2025": [
+          404,
+          198,
+          214,
+          115,
+          313,
+          101,
+          94,
+          79,
+          65,
+          68,
+          31,
+          78,
+          25
+        ],
+        "plano2026": [
+          444,
+          217,
+          235,
+          126,
+          344,
+          111,
+          103,
+          86,
+          71,
+          74,
+          34,
+          85,
+          27
+        ]
+      },
+      {
+        "nome": "FLOR DO OCEANO",
+        "vendas2025": [
+          388,
+          176,
+          178,
+          91,
+          184,
+          68,
+          42,
+          43,
+          63,
+          28,
+          18,
+          67,
+          79
+        ],
+        "plano2026": [
+          426,
+          193,
+          195,
+          100,
+          202,
+          74,
+          46,
+          47,
+          69,
+          30,
+          19,
+          73,
+          86
+        ]
+      },
+      {
+        "nome": "NOIVAS",
+        "vendas2025": [
+          339,
+          166,
+          180,
+          97,
+          263,
+          85,
+          79,
+          66,
+          55,
+          57,
+          26,
+          65,
+          21
+        ],
+        "plano2026": [
+          372,
+          182,
+          198,
+          106,
+          289,
+          93,
+          86,
+          72,
+          60,
+          62,
+          28,
+          71,
+          23
+        ]
+      },
+      {
+        "nome": "VISCOW",
+        "vendas2025": [
+          131,
+          100,
+          115,
+          57,
+          225,
+          58,
+          25,
+          15,
+          34,
+          20,
+          5,
+          37,
+          1
+        ],
+        "plano2026": [
+          144,
+          110,
+          126,
+          62,
+          247,
+          63,
+          27,
+          16,
+          37,
+          22,
+          5,
+          40,
+          1
+        ]
+      },
+      {
+        "nome": "PORTELLE",
+        "vendas2025": [
+          121,
+          98,
+          110,
+          58,
+          176,
+          60,
+          73,
+          48,
+          29,
+          29,
+          18,
+          36,
+          3
+        ],
+        "plano2026": [
+          133,
+          107,
+          121,
+          63,
+          193,
+          66,
+          80,
+          52,
+          31,
+          31,
+          19,
+          39,
+          3
+        ]
+      },
+      {
+        "nome": "KISS ME PLUS",
+        "vendas2025": [
+          51,
+          32,
+          80,
+          59,
+          68,
+          33,
+          59,
+          21,
+          0,
+          15,
+          0,
+          0,
+          0
+        ],
+        "plano2026": [
+          56,
+          35,
+          88,
+          64,
+          74,
+          36,
+          64,
+          23,
+          0,
+          16,
+          0,
+          0,
+          34
+        ]
+      },
+      {
+        "nome": "LOVELY",
+        "vendas2025": [
+          50,
+          22,
+          46,
+          15,
+          26,
+          10,
+          8,
+          14,
+          10,
+          8,
+          3,
+          14,
+          1
+        ],
+        "plano2026": [
+          55,
+          24,
+          50,
+          16,
+          28,
+          11,
+          8,
+          15,
+          11,
+          8,
+          3,
+          15,
+          1
+        ]
+      },
+      {
+        "nome": "LACE",
+        "vendas2025": [
+          5,
+          21,
+          11,
+          6,
+          33,
+          9,
+          4,
+          6,
+          8,
+          4,
+          3,
+          10,
+          7
+        ],
+        "plano2026": [
+          5,
+          23,
+          12,
+          6,
+          36,
+          9,
+          4,
+          6,
+          8,
+          4,
+          3,
+          11,
+          7
+        ]
+      },
+      {
+        "nome": "CETIM",
+        "vendas2025": [
+          5,
+          16,
+          25,
+          5,
+          10,
+          3,
+          1,
+          1,
+          6,
+          4,
+          0,
+          2,
+          0
+        ],
+        "plano2026": [
+          5,
+          17,
+          27,
+          5,
+          11,
+          3,
+          1,
+          1,
+          6,
+          4,
+          9,
+          2,
+          9
+        ]
+      },
+      {
+        "nome": "CONFORT VANILLA",
+        "vendas2025": [
+          1100,
+          538,
+          582,
+          312,
+          852,
+          276,
+          255,
+          214,
+          177,
+          184,
+          84,
+          212,
+          69
+        ],
+        "plano2026": [
+          1210,
+          591,
+          640,
+          343,
+          937,
+          303,
+          280,
+          235,
+          194,
+          202,
+          92,
+          233,
+          75
+        ]
+      }
+    ]
+  },
+  "mapeamentoFamiliasData": {
+    "lojas": [
+      "MARAPONGA",
+      "IGUATEMI",
+      "PORTO ALEGRE",
+      "BARRA",
+      "SALVADOR",
+      "RIO MAR RECIFE",
+      "MORUMBI",
+      "PARANGABA",
+      "DOM LUIS",
+      "NORTH",
+      "NORTH JOQUEI",
+      "ECOMMERCE",
+      "TABOSA"
+    ],
+    "familias": [
+      {
+        "familiaAtual": "BLOOM",
+        "familiaAnterior": "SORRENTINA",
+        "vendas2025": [
+          503,
+          206,
+          290,
+          102,
+          353,
+          98,
+          99,
+          134,
+          88,
+          97,
+          60,
+          116,
+          22
+        ],
+        "plano2026": [
+          553,
+          226,
+          319,
+          112,
+          388,
+          107,
+          108,
+          147,
+          96,
+          106,
+          66,
+          127,
+          24
+        ]
+      },
+      {
+        "familiaAtual": "LOVELY",
+        "familiaAnterior": "BREEZE",
+        "vendas2025": [
+          50,
+          22,
+          46,
+          15,
+          26,
+          10,
+          8,
+          14,
+          10,
+          8,
+          3,
+          14,
+          1
+        ],
+        "plano2026": [
+          55,
+          24,
+          50,
+          16,
+          28,
+          11,
+          8,
+          15,
+          11,
+          8,
+          3,
+          15,
+          1
+        ]
+      },
+      {
+        "familiaAtual": "AQUALUME",
+        "familiaAnterior": "BELLA",
+        "vendas2025": [
+          645,
+          248,
+          223,
+          136,
+          452,
+          127,
+          90,
+          94,
+          72,
+          77,
+          53,
+          77,
+          26
+        ],
+        "plano2026": [
+          709,
+          272,
+          245,
+          149,
+          497,
+          139,
+          99,
+          103,
+          79,
+          84,
+          58,
+          84,
+          28
+        ]
+      },
+      {
+        "familiaAtual": "PORTELLE",
+        "familiaAnterior": "MARINE",
+        "vendas2025": [
+          121,
+          98,
+          110,
+          58,
+          176,
+          60,
+          73,
+          48,
+          29,
+          29,
+          18,
+          36,
+          3
+        ],
+        "plano2026": [
+          133,
+          107,
+          121,
+          63,
+          193,
+          66,
+          80,
+          52,
+          31,
+          31,
+          19,
+          39,
+          3
+        ]
+      },
+      {
+        "familiaAtual": "WISHES",
+        "familiaAnterior": "WISHES",
+        "vendas2025": [
+          600,
+          195,
+          82,
+          43,
+          180,
+          44,
+          38,
+          51,
+          84,
+          34,
+          22,
+          57,
+          16
+        ],
+        "plano2026": [
+          660,
+          214,
+          90,
+          47,
+          198,
+          48,
+          41,
+          56,
+          92,
+          37,
+          24,
+          62,
+          17
+        ]
+      },
+      {
+        "familiaAtual": "FLOR DO OCEANO",
+        "familiaAnterior": "DELICATTI",
+        "vendas2025": [
+          388,
+          176,
+          178,
+          91,
+          184,
+          68,
+          42,
+          43,
+          63,
+          28,
+          18,
+          67,
+          79
+        ],
+        "plano2026": [
+          426,
+          193,
+          195,
+          100,
+          202,
+          74,
+          46,
+          47,
+          69,
+          30,
+          19,
+          73,
+          86
+        ]
+      },
+      {
+        "familiaAtual": "NOIVAS",
+        "familiaAnterior": "NOIVAS",
+        "vendas2025": [
+          339,
+          166,
+          180,
+          97,
+          263,
+          85,
+          79,
+          66,
+          55,
+          57,
+          26,
+          65,
+          21
+        ],
+        "plano2026": [
+          372,
+          182,
+          198,
+          106,
+          289,
+          93,
+          86,
+          72,
+          60,
+          62,
+          28,
+          71,
+          23
+        ]
+      },
+      {
+        "familiaAtual": "LOVE APPEAL",
+        "familiaAnterior": "LOVE APPEAL",
+        "vendas2025": [
+          404,
+          198,
+          214,
+          115,
+          313,
+          101,
+          94,
+          79,
+          65,
+          68,
+          31,
+          78,
+          25
+        ],
+        "plano2026": [
+          444,
+          217,
+          235,
+          126,
+          344,
+          111,
+          103,
+          86,
+          71,
+          74,
+          34,
+          85,
+          27
+        ]
+      },
+      {
+        "familiaAtual": "LACE",
+        "familiaAnterior": "LACE",
+        "vendas2025": [
+          5,
+          21,
+          11,
+          6,
+          33,
+          9,
+          4,
+          6,
+          8,
+          4,
+          3,
+          10,
+          7
+        ],
+        "plano2026": [
+          5,
+          23,
+          12,
+          6,
+          36,
+          9,
+          4,
+          6,
+          8,
+          4,
+          3,
+          11,
+          7
+        ]
+      },
+      {
+        "familiaAtual": "KISS ME",
+        "familiaAnterior": "KISS ME",
+        "vendas2025": [
+          732,
+          487,
+          516,
+          263,
+          714,
+          194,
+          229,
+          182,
+          193,
+          205,
+          87,
+          193,
+          49
+        ],
+        "plano2026": [
+          805,
+          535,
+          567,
+          289,
+          785,
+          213,
+          251,
+          200,
+          212,
+          225,
+          95,
+          212,
+          53
+        ]
+      },
+      {
+        "familiaAtual": "KISS ME PLUS",
+        "familiaAnterior": "KISS ME PLUS",
+        "vendas2025": [
+          51,
+          32,
+          80,
+          59,
+          68,
+          33,
+          59,
+          21,
+          0,
+          15,
+          0,
+          0,
+          0
+        ],
+        "plano2026": [
+          56,
+          35,
+          88,
+          64,
+          74,
+          36,
+          64,
+          23,
+          0,
+          16,
+          0,
+          0,
+          34
+        ]
+      },
+      {
+        "familiaAtual": "VISCOW",
+        "familiaAnterior": "VISCOW",
+        "vendas2025": [
+          131,
+          100,
+          115,
+          57,
+          225,
+          58,
+          25,
+          15,
+          34,
+          20,
+          5,
+          37,
+          1
+        ],
+        "plano2026": [
+          144,
+          110,
+          126,
+          62,
+          247,
+          63,
+          27,
+          16,
+          37,
+          22,
+          5,
+          40,
+          1
+        ]
+      },
+      {
+        "familiaAtual": "CETIM",
+        "familiaAnterior": "CETIM",
+        "vendas2025": [
+          5,
+          16,
+          25,
+          5,
+          10,
+          3,
+          1,
+          1,
+          6,
+          4,
+          0,
+          2,
+          0
+        ],
+        "plano2026": [
+          5,
+          17,
+          27,
+          5,
+          11,
+          3,
+          1,
+          1,
+          6,
+          4,
+          9,
+          2,
+          9
+        ]
+      },
+      {
+        "familiaAtual": "AFTER SUN",
+        "familiaAnterior": "MARINE",
+        "vendas2025": [
+          368,
+          298,
+          334,
+          178,
+          534,
+          183,
+          223,
+          146,
+          88,
+          88,
+          57,
+          112,
+          12
+        ],
+        "plano2026": [
+          404,
+          327,
+          367,
+          195,
+          587,
+          201,
+          245,
+          160,
+          96,
+          96,
+          62,
+          123,
+          13
+        ]
+      },
+      {
+        "familiaAtual": "CONFORT VANILLA",
+        "familiaAnterior": "CONFORT VANILLA",
+        "vendas2025": [
+          1100,
+          538,
+          582,
+          312,
+          852,
+          276,
+          255,
+          214,
+          177,
+          184,
+          84,
+          212,
+          69
+        ],
+        "plano2026": [
+          1210,
+          591,
+          640,
+          343,
+          937,
+          303,
+          280,
+          235,
+          194,
+          202,
+          92,
+          233,
+          75
+        ]
+      }
+    ]
+  }
+}
