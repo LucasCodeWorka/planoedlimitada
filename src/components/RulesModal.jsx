@@ -6,9 +6,9 @@ const RulesModal = ({ isOpen, onClose, dadosAjustados, kpiData, filters }) => {
   const rules = [
     {
       titulo: 'Limite de Aumento (10%)',
-      descricao: 'Regra desativada para preservar o plano original definido pelo Cairo.',
-      status: 'nao-aplicado',
-      detalhes: `Plano exibido sem redução: ${Number(dadosAjustados.kpiAjustado.plano2026).toLocaleString('pt-BR')} un | Aumento informativo: +${dadosAjustados.aumentoAjustado}%`
+      descricao: 'Plano limitado por família, usando a base da própria família ou do seu de-para.',
+      status: 'ativo',
+      detalhes: `Plano máximo por família = base × 1,10. Famílias que já estavam abaixo do limite foram mantidas. Plano atual: ${Number(dadosAjustados.kpiAjustado.plano2026).toLocaleString('pt-BR')} un.`
     },
     {
       titulo: 'Mapeamento Família → Linha',
@@ -18,9 +18,9 @@ const RulesModal = ({ isOpen, onClose, dadosAjustados, kpiData, filters }) => {
     },
     {
       titulo: 'Distribuição por Loja',
-      descricao: 'Vendas são distribuídas proporcionalmente entre as 13 lojas baseado no histórico de 2025.',
+      descricao: 'Vendas são distribuídas proporcionalmente entre as 15 lojas baseado no histórico de 2025.',
       status: 'ativo',
-      detalhes: 'Lojas: Maraponga, Iguatemi, Porto Alegre, Barra, Rio Mar Salvador, Rio Mar Recife, Morumbi, Parangaba, Dom Luis, North, North Joquei, Ecommerce, Tabosa'
+      detalhes: 'Lojas: Maraponga, Iguatemi, Porto Alegre, Barra, Salvador, Rio Mar Recife, Morumbi, Parangaba, Dom Luis, North, North Joquei, Ecommerce, Tabosa, Riomar Kennedy, Intimates'
     },
     {
       titulo: 'Distribuição por Mês de Envio',
@@ -50,7 +50,7 @@ const RulesModal = ({ isOpen, onClose, dadosAjustados, kpiData, filters }) => {
       titulo: 'Estimativa Proporcional',
       descricao: 'Quando filtros são aplicados, a venda 2025 é estimada proporcionalmente.',
       status: 'ativo',
-      detalhes: 'Fórmula: Venda2025_filtrada = Venda2025_total × (Plano_filtrado / Plano_total)'
+      detalhes: 'A matriz comparativa usa a base própria de cada família/loja; regras manuais de uma família não alteram o percentual das demais.'
     },
     {
       titulo: 'Mapeamento Família Nova → Histórica (De-Para)',
