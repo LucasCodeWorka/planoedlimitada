@@ -30,7 +30,6 @@
       "KISS ME PLUS",
       "LACE",
       "LOVE APPEAL",
-      "LOVELY",
       "NOIVAS",
       "PORTELLE",
       "VISCOW",
@@ -113,8 +112,8 @@
     ]
   },
   "kpiData": {
-    "plano2026": 22659,
-    "plano2026Original": 22659,
+    "plano2026": 22409,
+    "plano2026Original": 22409,
     "venda2025": 26592,
     "inverno26": 0,
     "inverno25": 0,
@@ -132,7 +131,7 @@
     },
     {
       "nome": "CAMISOLA",
-      "valor": 1737
+      "valor": 1487
     },
     {
       "nome": "TOP",
@@ -247,10 +246,6 @@
       "valor": 325
     },
     {
-      "nome": "LOVELY",
-      "valor": 250
-    },
-    {
       "nome": "LACE",
       "valor": 140
     },
@@ -324,7 +319,7 @@
   "linhaData": [
     {
       "nome": "FASHION",
-      "valor": 11777
+      "valor": 11527
     },
     {
       "nome": "LUXE",
@@ -387,12 +382,12 @@
       "valor": 1794
     },
     {
-      "nome": "CAMISOLA CURTA",
-      "valor": 1721
-    },
-    {
       "nome": "CALCINHA BIQUINI",
       "valor": 1545
+    },
+    {
+      "nome": "CAMISOLA CURTA",
+      "valor": 1471
     },
     {
       "nome": "SUTIA PUSH UP (COM BOLHA)",
@@ -701,10 +696,6 @@
     {
       "nome": "REF-503049",
       "valor": 254
-    },
-    {
-      "nome": "REF-506124",
-      "valor": 250
     },
     {
       "nome": "REF-101700",
@@ -1308,7 +1299,7 @@
     },
     {
       "mes": "AGOSTO",
-      "valor": 12033
+      "valor": 11783
     },
     {
       "mes": "SETEMBRO",
@@ -8040,198 +8031,6 @@
     },
     {
       "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "BRANCO",
-      "tam": "G",
-      "linha": "FASHION",
-      "plano": 16,
-      "vendaBase": 113,
-      "percCor": "30.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "LOVE",
-      "tam": "G",
-      "linha": "FASHION",
-      "plano": 18,
-      "vendaBase": 113,
-      "percCor": "33.3%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "PRETO",
-      "tam": "G",
-      "linha": "FASHION",
-      "plano": 37,
-      "vendaBase": 113,
-      "percCor": "70.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "BRANCO",
-      "tam": "GG",
-      "linha": "FASHION",
-      "plano": 6,
-      "vendaBase": 43,
-      "percCor": "30.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "LOVE",
-      "tam": "GG",
-      "linha": "FASHION",
-      "plano": 6,
-      "vendaBase": 43,
-      "percCor": "33.3%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "PRETO",
-      "tam": "GG",
-      "linha": "FASHION",
-      "plano": 14,
-      "vendaBase": 43,
-      "percCor": "70.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "BRANCO",
-      "tam": "M",
-      "linha": "FASHION",
-      "plano": 21,
-      "vendaBase": 153,
-      "percCor": "30.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "LOVE",
-      "tam": "M",
-      "linha": "FASHION",
-      "plano": 24,
-      "vendaBase": 153,
-      "percCor": "33.3%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "PRETO",
-      "tam": "M",
-      "linha": "FASHION",
-      "plano": 49,
-      "vendaBase": 153,
-      "percCor": "70.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "BRANCO",
-      "tam": "P",
-      "linha": "FASHION",
-      "plano": 13,
-      "vendaBase": 96,
-      "percCor": "30.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "LOVE",
-      "tam": "P",
-      "linha": "FASHION",
-      "plano": 15,
-      "vendaBase": 96,
-      "percCor": "33.3%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
-      "familia": "LOVELY",
-      "grupo": "CAMISOLA",
-      "subgrupo": "CAMISOLA CURTA",
-      "ref": "506124",
-      "cor": "PRETO",
-      "tam": "P",
-      "linha": "FASHION",
-      "plano": 31,
-      "vendaBase": 96,
-      "percCor": "70.0%",
-      "familiaHist": "BREEZE",
-      "temDepara": "SIM",
-      "temPercentual": "CAP_10_FAMILIA"
-    },
-    {
-      "colecao": "VERAO 27",
       "familia": "NOIVAS",
       "grupo": "CALCA",
       "subgrupo": "CALCINHA FIO DENTAL",
@@ -11970,43 +11769,6 @@
         ]
       },
       {
-        "nome": "LOVELY",
-        "vendas2025": [
-          55,
-          27,
-          29,
-          16,
-          15,
-          14,
-          13,
-          11,
-          9,
-          9,
-          4,
-          3,
-          3,
-          11,
-          8
-        ],
-        "plano2026": [
-          61,
-          30,
-          32,
-          17,
-          16,
-          15,
-          14,
-          12,
-          10,
-          10,
-          5,
-          3,
-          4,
-          12,
-          9
-        ]
-      },
-      {
         "nome": "KISS ME PLUS",
         "vendas2025": [
           101,
@@ -12285,44 +12047,6 @@
           37,
           119,
           85
-        ]
-      },
-      {
-        "familiaAtual": "LOVELY",
-        "familiaAnterior": "BREEZE",
-        "vendas2025": [
-          55,
-          27,
-          29,
-          16,
-          15,
-          14,
-          13,
-          11,
-          9,
-          9,
-          4,
-          3,
-          3,
-          11,
-          8
-        ],
-        "plano2026": [
-          61,
-          30,
-          32,
-          17,
-          16,
-          15,
-          14,
-          12,
-          10,
-          10,
-          5,
-          3,
-          4,
-          12,
-          9
         ]
       },
       {
