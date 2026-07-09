@@ -1,6 +1,13 @@
 import React from 'react';
 import { Filter, RotateCcw } from 'lucide-react';
 
+const getOptionLabel = (key, value) => {
+  if (key === 'familia' && value === 'CONFORT VANILLA') {
+    return 'CONFORT';
+  }
+  return value;
+};
+
 const FilterBar = ({ filters, setFilters, options }) => {
   const handleChange = (key, value) => {
     setFilters(prev => ({ ...prev, [key]: value }));
@@ -50,7 +57,7 @@ const FilterBar = ({ filters, setFilters, options }) => {
             >
               {opts?.map(opt => (
                 <option key={opt} value={opt}>
-                  {opt}
+                  {getOptionLabel(key, opt)}
                 </option>
               ))}
             </select>

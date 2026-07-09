@@ -26,6 +26,13 @@ const fmt = (v, dec = 0) => Number(v || 0).toLocaleString('pt-BR', {
 
 const soma = (valores = []) => valores.reduce((acc, valor) => acc + (Number(valor) || 0), 0);
 
+const getFamiliaDisplayName = (familia) => {
+  if (familia === 'CONFORT VANILLA') {
+    return 'BASICOS';
+  }
+  return familia;
+};
+
 const distribuirPorReferencia = (total, referencia = []) => {
   const totalInteiro = Math.round(Number(total) || 0);
   const totalReferencia = soma(referencia);
@@ -357,7 +364,7 @@ const ComparativeMatrix = ({ data, filters = {}, familiaLinhaMap = {} }) => {
                     <td className={`px-3 py-2 font-semibold text-gray-800 sticky left-0 z-10 min-w-[200px] ${famIdx % 2 === 0 ? 'bg-white' : 'bg-[#f9fafb]'}`}>
                       <div className="flex items-center gap-2">
                         {isFamExpanded ? <ChevronDown size={14} className="text-[#B3838C]" /> : <ChevronRight size={14} className="text-gray-400" />}
-                        <span className="text-xs font-bold uppercase">{familia.nome}</span>
+                        <span className="text-xs font-bold uppercase">{getFamiliaDisplayName(familia.nome)}</span>
                       </div>
                     </td>
                     {lojasIndices.map((lojaIdx, i) => (
