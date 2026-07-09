@@ -17,7 +17,12 @@ const AuditTable = ({ data = [], filters = {} }) => {
 
   const parsePercent = (value) => {
     if (!value || value === '-') return null;
-    const parsed = Number(String(value).replace('%', '').replace(',', '.'));
+    const text = String(value).trim();
+    if (text.includes('/')) {
+      const [num, den] = text.split('/').map(part => Number(part.replace(',', '.')));
+      return Number.isFinite(num) && Number.isFinite(den) && den !== 0 ? num / den : null;
+    }
+    const parsed = Number(text.replace('%', '').replace(',', '.'));
     return Number.isFinite(parsed) ? parsed / 100 : null;
   };
 
@@ -43,8 +48,8 @@ const AuditTable = ({ data = [], filters = {} }) => {
       },
       'CONFORT VANILLA': {
         tipo: 'Base especial',
-        criterio: 'familia criada a partir de um recorte especifico de cor',
-        origem: 'historico da cor Branco dos ultimos 3 meses',
+        criterio: 'produtos com classificacao CONFORT na dproduto, usando a venda da cor BRANCO convertida para VANILINA',
+        origem: 'branco-confort.csv: 4.855 un de BRANCO, convertido para plano de 2 meses (2/6 = 1.618 un)',
       },
       'PORTELLE': {
         tipo: 'Regra especial',

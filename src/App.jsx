@@ -28,7 +28,7 @@ const FAMILIA_LINHA_MAP = {
   'AQUALUME': 'LUXE',
   'BLOOM': 'FASHION',
   'CETIM': 'LOUNGEWEAR',
-  'CONFORT VANILLA': 'FASHION',  // Adicionado - base cor Branco CONFORT
+  'CONFORT VANILLA': 'CONFORT',  // Base BRANCO CONFORT convertida para VANILINA
   'FLOR DO OCEANO': 'LUXE',
   'KISS ME': 'FASHION',
   'KISS ME PLUS': 'FASHION',

@@ -62,7 +62,7 @@ const RulesModal = ({ isOpen, onClose, dadosAjustados, kpiData, filters }) => {
       titulo: 'Famílias com Base Especial',
       descricao: 'Algumas famílias usam bases de dados específicas ao invés do mapeamento histórico padrão.',
       status: 'info',
-      detalhes: 'LOVE APPEAL: 1º semestre 2026 (1.785 un) | NOIVAS: 1º semestre 2026 (1.499 un) | CONFORT VANILLA: cor Branco últimos 3 meses (4.855 un) | LACE: dados manuais (127 un) | PORTELLE: 33% do histórico MARINE (redução por peça cara)'
+      detalhes: 'LOVE APPEAL: 1º semestre 2026 (1.785 un) | NOIVAS: 1º semestre 2026 (1.499 un) | CONFORT VANILLA: BRANCO CONFORT 4.855 un convertido para VANILINA e reduzido para 2/6 = 1.618 un | LACE: dados manuais (127 un) | PORTELLE: 33% do histórico MARINE (redução por peça cara)'
     },
     {
       titulo: 'Regras PCP Aplicadas',

@@ -24,6 +24,7 @@
       "AQUALUME",
       "BLOOM",
       "CETIM",
+      "CONFORT VANILLA",
       "FLOR DO OCEANO",
       "KISS ME",
       "KISS ME PLUS",
@@ -37,6 +38,7 @@
     ],
     "linhas": [
       "TODAS",
+      "CONFORT",
       "FASHION",
       "LOUNGEWEAR",
       "LUXE"
@@ -72,6 +74,22 @@
     ],
     "referencias": [
       "TODAS",
+      "101000",
+      "101500",
+      "101700",
+      "101701",
+      "101704",
+      "102100",
+      "103009",
+      "103101",
+      "103400",
+      "103605",
+      "103606",
+      "103802",
+      "111003",
+      "201301",
+      "201702",
+      "341001",
       "501021",
       "501049",
       "501149",
@@ -95,9 +113,9 @@
     ]
   },
   "kpiData": {
-    "plano2026": 27627,
-    "plano2026Original": 27627,
-    "venda2025": 24974,
+    "plano2026": 29245,
+    "plano2026Original": 29245,
+    "venda2025": 26592,
     "inverno26": 0,
     "inverno25": 0,
     "altoInverno26": 0,
@@ -106,11 +124,11 @@
   "grupoData": [
     {
       "nome": "CALCA",
-      "valor": 16994
+      "valor": 18176
     },
     {
       "nome": "SUTIA",
-      "valor": 6070
+      "valor": 6430
     },
     {
       "nome": "CAMISOLA",
@@ -118,7 +136,7 @@
     },
     {
       "nome": "TOP",
-      "valor": 549
+      "valor": 619
     },
     {
       "nome": "BODY",
@@ -139,6 +157,10 @@
     {
       "nome": "ROBE",
       "valor": 33
+    },
+    {
+      "nome": "SHORT",
+      "valor": 6
     }
   ],
   "grupoData2025": [
@@ -175,39 +197,68 @@
       "valor": 35
     }
   ],
-  "familiaData": {
-    "nome": "AFTER SUN",
-    "vendas2025": [
-      368,
-      298,
-      334,
-      178,
-      534,
-      183,
-      223,
-      146,
-      88,
-      88,
-      57,
-      112,
-      12
-    ],
-    "plano2026": [
-      364,
-      294,
-      330,
-      176,
-      528,
-      181,
-      220,
-      144,
-      87,
-      87,
-      56,
-      110,
-      11
-    ]
-  },
+  "familiaData": [
+    {
+      "nome": "KISS ME",
+      "valor": 4790
+    },
+    {
+      "nome": "AQUALUME",
+      "valor": 3668
+    },
+    {
+      "nome": "LOVE APPEAL",
+      "valor": 3434
+    },
+    {
+      "nome": "AFTER SUN",
+      "valor": 2594
+    },
+    {
+      "nome": "BLOOM",
+      "valor": 2464
+    },
+    {
+      "nome": "WISHES",
+      "valor": 2212
+    },
+    {
+      "nome": "NOIVAS",
+      "valor": 2138
+    },
+    {
+      "nome": "FLOR DO OCEANO",
+      "valor": 1928
+    },
+    {
+      "nome": "CONFORT VANILLA",
+      "valor": 1618
+    },
+    {
+      "nome": "PORTELLE",
+      "valor": 1434
+    },
+    {
+      "nome": "VISCOW",
+      "valor": 990
+    },
+    {
+      "nome": "LACE",
+      "valor": 987
+    },
+    {
+      "nome": "LOVELY",
+      "valor": 540
+    },
+    {
+      "nome": "KISS ME PLUS",
+      "valor": 325
+    },
+    {
+      "nome": "CETIM",
+      "valor": 123
+    }
+  ],
   "familiaData2025": [
     {
       "nome": "KISS ME",
@@ -282,6 +333,10 @@
     {
       "nome": "LOUNGEWEAR",
       "valor": 2100
+    },
+    {
+      "nome": "CONFORT",
+      "valor": 1618
     }
   ],
   "linhaData2025": [
@@ -317,7 +372,7 @@
   "subgrupoData": [
     {
       "nome": "CALCINHA FIO DENTAL",
-      "valor": 9680
+      "valor": 10095
     },
     {
       "nome": "CAMISOLA CURTA",
@@ -329,23 +384,23 @@
     },
     {
       "nome": "SUTIA MEIA TACA",
-      "valor": 2155
-    },
-    {
-      "nome": "CALCINHA TANGA",
-      "valor": 1936
+      "valor": 2181
     },
     {
       "nome": "CALCINHA BIQUINI",
-      "valor": 1920
+      "valor": 2099
+    },
+    {
+      "nome": "CALCINHA TANGA",
+      "valor": 2078
     },
     {
       "nome": "SUTIA PUSH UP (COM BOLHA)",
-      "valor": 1600
+      "valor": 1789
     },
     {
       "nome": "CALCINHA ALTA",
-      "valor": 961
+      "valor": 1407
     },
     {
       "nome": "SUTIA CROPPED",
@@ -357,7 +412,7 @@
     },
     {
       "nome": "SUTIA TRIANGULAR",
-      "valor": 644
+      "valor": 678
     },
     {
       "nome": "BODY",
@@ -368,6 +423,10 @@
       "valor": 373
     },
     {
+      "nome": "TOP",
+      "valor": 253
+    },
+    {
       "nome": "CINTA LIGA",
       "valor": 202
     },
@@ -376,12 +435,12 @@
       "valor": 191
     },
     {
-      "nome": "TOP",
-      "valor": 183
-    },
-    {
       "nome": "SHORT DOLL",
       "valor": 153
+    },
+    {
+      "nome": "SUTIA TOMARA QUE CAIA",
+      "valor": 111
     },
     {
       "nome": "CALCINHA LARGA",
@@ -398,6 +457,10 @@
     {
       "nome": "PIJAMAS",
       "valor": 17
+    },
+    {
+      "nome": "BERMUDA",
+      "valor": 6
     }
   ],
   "subgrupoData2025": [
@@ -476,11 +539,11 @@
   ],
   "refData": [
     {
-      "nome": "REF-501201",
+      "nome": "REF-501004",
       "valor": 1106
     },
     {
-      "nome": "REF-501004",
+      "nome": "REF-501201",
       "valor": 1106
     },
     {
@@ -548,6 +611,10 @@
       "valor": 465
     },
     {
+      "nome": "REF-201301",
+      "valor": 446
+    },
+    {
       "nome": "REF-501049",
       "valor": 418
     },
@@ -556,11 +623,11 @@
       "valor": 415
     },
     {
-      "nome": "REF-501723",
+      "nome": "REF-501715",
       "valor": 415
     },
     {
-      "nome": "REF-501715",
+      "nome": "REF-501723",
       "valor": 415
     },
     {
@@ -584,11 +651,11 @@
       "valor": 380
     },
     {
-      "nome": "REF-603185",
+      "nome": "REF-503149",
       "valor": 378
     },
     {
-      "nome": "REF-503149",
+      "nome": "REF-603185",
       "valor": 378
     },
     {
@@ -596,11 +663,11 @@
       "valor": 373
     },
     {
-      "nome": "REF-604084",
+      "nome": "REF-603584",
       "valor": 373
     },
     {
-      "nome": "REF-603584",
+      "nome": "REF-604084",
       "valor": 373
     },
     {
@@ -620,11 +687,11 @@
       "valor": 366
     },
     {
-      "nome": "REF-136218",
+      "nome": "REF-136118",
       "valor": 354
     },
     {
-      "nome": "REF-136118",
+      "nome": "REF-136218",
       "valor": 354
     },
     {
@@ -668,6 +735,10 @@
       "valor": 238
     },
     {
+      "nome": "REF-101700",
+      "valor": 235
+    },
+    {
       "nome": "REF-603086",
       "valor": 222
     },
@@ -708,6 +779,10 @@
       "valor": 181
     },
     {
+      "nome": "REF-101500",
+      "valor": 178
+    },
+    {
       "nome": "REF-501149",
       "valor": 158
     },
@@ -740,11 +815,23 @@
       "valor": 143
     },
     {
-      "nome": "REF-136117",
-      "valor": 118
+      "nome": "REF-101000",
+      "valor": 142
+    },
+    {
+      "nome": "REF-103101",
+      "valor": 123
+    },
+    {
+      "nome": "REF-201702",
+      "valor": 120
     },
     {
       "nome": "REF-136112",
+      "valor": 118
+    },
+    {
+      "nome": "REF-136117",
       "valor": 118
     },
     {
@@ -752,19 +839,31 @@
       "valor": 108
     },
     {
+      "nome": "REF-341001",
+      "valor": 99
+    },
+    {
+      "nome": "REF-103605",
+      "valor": 92
+    },
+    {
       "nome": "REF-603586",
       "valor": 77
+    },
+    {
+      "nome": "REF-103802",
+      "valor": 70
     },
     {
       "nome": "REF-503400",
       "valor": 67
     },
     {
-      "nome": "REF-701709",
+      "nome": "REF-701708",
       "valor": 63
     },
     {
-      "nome": "REF-701708",
+      "nome": "REF-701709",
       "valor": 63
     },
     {
@@ -788,6 +887,10 @@
       "valor": 45
     },
     {
+      "nome": "REF-101704",
+      "valor": 37
+    },
+    {
       "nome": "REF-701502",
       "valor": 37
     },
@@ -796,11 +899,11 @@
       "valor": 36
     },
     {
-      "nome": "REF-701306",
+      "nome": "REF-136910",
       "valor": 33
     },
     {
-      "nome": "REF-136910",
+      "nome": "REF-701306",
       "valor": 33
     },
     {
@@ -808,8 +911,20 @@
       "valor": 28
     },
     {
+      "nome": "REF-103009",
+      "valor": 26
+    },
+    {
+      "nome": "REF-101701",
+      "valor": 23
+    },
+    {
       "nome": "REF-703305",
       "valor": 20
+    },
+    {
+      "nome": "REF-103606",
+      "valor": 19
     },
     {
       "nome": "REF-136213",
@@ -822,6 +937,18 @@
     {
       "nome": "REF-136219",
       "valor": 11
+    },
+    {
+      "nome": "REF-102100",
+      "valor": 6
+    },
+    {
+      "nome": "REF-103400",
+      "valor": 1
+    },
+    {
+      "nome": "REF-111003",
+      "valor": 1
     }
   ],
   "refData2025": [
@@ -1177,11 +1304,11 @@
   "mesProducaoData": [
     {
       "mes": "JULHO",
-      "valor": 6105
+      "valor": 6914
     },
     {
       "mes": "AGOSTO",
-      "valor": 14257
+      "valor": 15066
     },
     {
       "mes": "SETEMBRO",
@@ -10470,6 +10597,950 @@
       "familiaHist": "WISHES",
       "temDepara": "SIM",
       "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "101000",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 30,
+      "vendaBase": 90,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "101000",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 6,
+      "vendaBase": 17,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "101000",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 72,
+      "vendaBase": 217,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA TANGA",
+      "ref": "101000",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 34,
+      "vendaBase": 103,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "101500",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 50,
+      "vendaBase": 151,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "101500",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 11,
+      "vendaBase": 32,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "101500",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 80,
+      "vendaBase": 240,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "101500",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 37,
+      "vendaBase": 111,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101700",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 39,
+      "vendaBase": 116,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101700",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 6,
+      "vendaBase": 19,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101700",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 110,
+      "vendaBase": 330,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101700",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 80,
+      "vendaBase": 241,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101701",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 6,
+      "vendaBase": 17,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101701",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 2,
+      "vendaBase": 6,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101701",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 11,
+      "vendaBase": 32,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101701",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 4,
+      "vendaBase": 12,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101704",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 7,
+      "vendaBase": 21,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101704",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 15,
+      "vendaBase": 46,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "101704",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 15,
+      "vendaBase": 45,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SHORT",
+      "subgrupo": "BERMUDA",
+      "ref": "102100",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 2,
+      "vendaBase": 6,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SHORT",
+      "subgrupo": "BERMUDA",
+      "ref": "102100",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 2,
+      "vendaBase": 4,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SHORT",
+      "subgrupo": "BERMUDA",
+      "ref": "102100",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 1,
+      "vendaBase": 2,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SHORT",
+      "subgrupo": "BERMUDA",
+      "ref": "102100",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 1,
+      "vendaBase": 2,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "103009",
+      "cor": "VANILINA",
+      "tam": "40",
+      "linha": "CONFORT",
+      "plano": 5,
+      "vendaBase": 14,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "103009",
+      "cor": "VANILINA",
+      "tam": "42",
+      "linha": "CONFORT",
+      "plano": 8,
+      "vendaBase": 23,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "103009",
+      "cor": "VANILINA",
+      "tam": "44",
+      "linha": "CONFORT",
+      "plano": 8,
+      "vendaBase": 25,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA MEIA TACA",
+      "ref": "103009",
+      "cor": "VANILINA",
+      "tam": "46",
+      "linha": "CONFORT",
+      "plano": 5,
+      "vendaBase": 15,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "103101",
+      "cor": "VANILINA",
+      "tam": "40",
+      "linha": "CONFORT",
+      "plano": 17,
+      "vendaBase": 50,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "103101",
+      "cor": "VANILINA",
+      "tam": "42",
+      "linha": "CONFORT",
+      "plano": 46,
+      "vendaBase": 137,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "103101",
+      "cor": "VANILINA",
+      "tam": "44",
+      "linha": "CONFORT",
+      "plano": 41,
+      "vendaBase": 122,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "103101",
+      "cor": "VANILINA",
+      "tam": "46",
+      "linha": "CONFORT",
+      "plano": 19,
+      "vendaBase": 57,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "103400",
+      "cor": "VANILINA",
+      "tam": "40",
+      "linha": "CONFORT",
+      "plano": 1,
+      "vendaBase": 1,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103605",
+      "cor": "VANILINA",
+      "tam": "40",
+      "linha": "CONFORT",
+      "plano": 8,
+      "vendaBase": 23,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103605",
+      "cor": "VANILINA",
+      "tam": "42",
+      "linha": "CONFORT",
+      "plano": 27,
+      "vendaBase": 80,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103605",
+      "cor": "VANILINA",
+      "tam": "44",
+      "linha": "CONFORT",
+      "plano": 36,
+      "vendaBase": 108,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103605",
+      "cor": "VANILINA",
+      "tam": "46",
+      "linha": "CONFORT",
+      "plano": 16,
+      "vendaBase": 49,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103605",
+      "cor": "VANILINA",
+      "tam": "48",
+      "linha": "CONFORT",
+      "plano": 5,
+      "vendaBase": 16,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103606",
+      "cor": "VANILINA",
+      "tam": "40",
+      "linha": "CONFORT",
+      "plano": 1,
+      "vendaBase": 4,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103606",
+      "cor": "VANILINA",
+      "tam": "42",
+      "linha": "CONFORT",
+      "plano": 4,
+      "vendaBase": 13,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103606",
+      "cor": "VANILINA",
+      "tam": "44",
+      "linha": "CONFORT",
+      "plano": 8,
+      "vendaBase": 25,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103606",
+      "cor": "VANILINA",
+      "tam": "46",
+      "linha": "CONFORT",
+      "plano": 4,
+      "vendaBase": 13,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TOMARA QUE CAIA",
+      "ref": "103606",
+      "cor": "VANILINA",
+      "tam": "48",
+      "linha": "CONFORT",
+      "plano": 2,
+      "vendaBase": 5,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "103802",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 19,
+      "vendaBase": 58,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "103802",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 11,
+      "vendaBase": 34,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "103802",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 30,
+      "vendaBase": 91,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "TOP",
+      "subgrupo": "TOP",
+      "ref": "103802",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 10,
+      "vendaBase": 31,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA BIQUINI",
+      "ref": "111003",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 1,
+      "vendaBase": 1,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "201301",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 154,
+      "vendaBase": 463,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "201301",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 76,
+      "vendaBase": 228,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "201301",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 165,
+      "vendaBase": 496,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA ALTA",
+      "ref": "201301",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 51,
+      "vendaBase": 153,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "201702",
+      "cor": "VANILINA",
+      "tam": "G",
+      "linha": "CONFORT",
+      "plano": 31,
+      "vendaBase": 93,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "201702",
+      "cor": "VANILINA",
+      "tam": "GG",
+      "linha": "CONFORT",
+      "plano": 11,
+      "vendaBase": 33,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "201702",
+      "cor": "VANILINA",
+      "tam": "M",
+      "linha": "CONFORT",
+      "plano": 54,
+      "vendaBase": 161,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "CALCA",
+      "subgrupo": "CALCINHA FIO DENTAL",
+      "ref": "201702",
+      "cor": "VANILINA",
+      "tam": "P",
+      "linha": "CONFORT",
+      "plano": 24,
+      "vendaBase": 73,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "341001",
+      "cor": "VANILINA",
+      "tam": "40",
+      "linha": "CONFORT",
+      "plano": 6,
+      "vendaBase": 19,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA TRIANGULAR",
+      "ref": "341001",
+      "cor": "VANILINA",
+      "tam": "42",
+      "linha": "CONFORT",
+      "plano": 27,
+      "vendaBase": 82,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "341001",
+      "cor": "VANILINA",
+      "tam": "44",
+      "linha": "CONFORT",
+      "plano": 38,
+      "vendaBase": 114,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
+    },
+    {
+      "colecao": "VERAO 27",
+      "familia": "CONFORT VANILLA",
+      "grupo": "SUTIA",
+      "subgrupo": "SUTIA PUSH UP (COM BOLHA)",
+      "ref": "341001",
+      "cor": "VANILINA",
+      "tam": "46",
+      "linha": "CONFORT",
+      "plano": 28,
+      "vendaBase": 85,
+      "percCor": "2/6",
+      "familiaHist": "CONFORT BRANCO",
+      "temDepara": "SIM",
+      "temPercentual": "SIM"
     }
   ],
   "comparativoLojasData": {
@@ -11119,6 +12190,43 @@
           0,
           0
         ]
+      },
+      {
+        "nome": "CONFORT VANILLA",
+        "vendas2025": [
+          250,
+          161,
+          145,
+          129,
+          129,
+          113,
+          113,
+          97,
+          80,
+          80,
+          64,
+          97,
+          64,
+          64,
+          32
+        ],
+        "plano2026": [
+          250,
+          161,
+          145,
+          129,
+          129,
+          113,
+          113,
+          97,
+          80,
+          80,
+          64,
+          97,
+          64,
+          64,
+          32
+        ]
       }
     ]
   },
@@ -11709,6 +12817,44 @@
           40,
           130,
           92
+        ]
+      },
+      {
+        "familiaAtual": "CONFORT VANILLA",
+        "familiaAnterior": "CONFORT BRANCO",
+        "vendas2025": [
+          250,
+          161,
+          145,
+          129,
+          129,
+          113,
+          113,
+          97,
+          80,
+          80,
+          64,
+          97,
+          64,
+          64,
+          32
+        ],
+        "plano2026": [
+          250,
+          161,
+          145,
+          129,
+          129,
+          113,
+          113,
+          97,
+          80,
+          80,
+          64,
+          97,
+          64,
+          64,
+          32
         ]
       }
     ]
