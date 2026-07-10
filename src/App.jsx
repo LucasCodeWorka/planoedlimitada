@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import Sidebar from './components/Sidebar';
 import KpiCard from './components/KpiCard';
 import FilterBar from './components/FilterBar';
@@ -8,19 +8,7 @@ import ComparativeMatrix from './components/ComparativeMatrix';
 import RulesModal from './components/RulesModal';
 import FamilyMappingTable from './components/FamilyMappingTable';
 import AuditTable from './components/AuditTable';
-import {
-  filterOptions,
-  kpiData,
-  mesProducaoData,
-  planoEdicaoLimitadaData,
-  comparativoLojasData,
-  mapeamentoFamiliasData,
-  grupoData2025,
-  familiaData2025,
-  linhaData2025,
-  subgrupoData2025,
-  refData2025
-} from '../data';
+import { loadDashboardData, staticDashboardData } from './services/dashboardData';
 
 // Mapeamento de Família para Linha (baseado nos dados do CSV)
 const FAMILIA_LINHA_MAP = {
@@ -52,6 +40,10 @@ function App() {
   const [showRulesModal, setShowRulesModal] = useState(false);
   const [zoom, setZoom] = useState(100);
   const [fontSize, setFontSize] = useState(100);
+  const [dashboardData, setDashboardData] = useState(staticDashboardData);
+  const [dataSource, setDataSource] = useState('arquivo');
+  const [dataError, setDataError] = useState('');
+  const [isLoadingData, setIsLoadingData] = useState(false);
   const [filters, setFilters] = useState({
     empresa: 'TODAS',
     familia: 'TODAS',
@@ -62,6 +54,54 @@ function App() {
     mes: 'TODOS',
     referencia: 'TODAS'
   });
+
+  useEffect(() => {
+    let isMounted = true;
+
+    async function loadData() {
+      setIsLoadingData(true);
+      setDataError('');
+
+      try {
+        const result = await loadDashboardData();
+
+        if (isMounted) {
+          setDashboardData(result.data);
+          setDataSource(result.source);
+        }
+      } catch (error) {
+        if (isMounted) {
+          setDashboardData(staticDashboardData);
+          setDataSource('arquivo');
+          setDataError(error.message || 'Nao foi possivel carregar os dados do banco.');
+        }
+      } finally {
+        if (isMounted) {
+          setIsLoadingData(false);
+        }
+      }
+    }
+
+    loadData();
+
+    return () => {
+      isMounted = false;
+    };
+  }, []);
+
+  const {
+    filterOptions = {},
+    kpiData = {},
+    mesProducaoData = [],
+    planoEdicaoLimitadaData = [],
+    comparativoLojasData = { lojas: [], familias: [] },
+    mapeamentoFamiliasData = { familias: [] },
+    grupoData2025 = [],
+    familiaData2025 = [],
+    linhaData2025 = [],
+    subgrupoData2025 = [],
+    refData2025 = []
+  } = dashboardData || {};
 
   // Filtrar os dados do plano baseado nos filtros selecionados
   const dadosFiltrados = useMemo(() => {
@@ -96,7 +136,7 @@ function App() {
     }
 
     return dados;
-  }, [filters]);
+  }, [filters, planoEdicaoLimitadaData]);
 
   // Calcular KPIs baseado nos dados filtrados
   const kpiFiltrado = useMemo(() => {
@@ -121,7 +161,7 @@ function App() {
       plano2026: totalPlano,
       venda2025: vendaEstimada
     };
-  }, [dadosFiltrados, filters]);
+  }, [dadosFiltrados, filters, kpiData]);
 
   // Calcular dados agregados baseado nos dados filtrados
   const dadosAgregados = useMemo(() => {
@@ -237,7 +277,7 @@ function App() {
       aumentoOriginal: venda2025 > 0 ? ((plano2026Original - venda2025) / venda2025 * 100).toFixed(1) : '0.0',
       aumentoAjustado: venda2025 > 0 ? ((plano2026Ajustado - venda2025) / venda2025 * 100).toFixed(1) : '0.0'
     };
-  }, [kpiFiltrado, dadosAgregados, dadosFiltrados]);
+  }, [kpiFiltrado, dadosAgregados, dadosFiltrados, mesProducaoData]);
 
   // Verificar se há filtros ativos
   const hasActiveFilters = filters.familia !== 'TODAS' ||
@@ -299,6 +339,21 @@ function App() {
 
         {/* Main */}
         <main className="p-6 space-y-6">
+          {(isLoadingData || dataSource === 'banco' || dataSource === 'api-arquivo' || dataError) && (
+            <div className={`border rounded-lg px-4 py-2 text-xs flex items-center justify-between ${
+              dataError
+                ? 'bg-amber-50 border-amber-200 text-amber-800'
+                : 'bg-emerald-50 border-emerald-200 text-emerald-800'
+            }`}>
+              <span>
+                {isLoadingData && 'Carregando dados...'}
+                {!isLoadingData && dataSource === 'banco' && 'Dados carregados do banco.'}
+                {!isLoadingData && dataSource === 'api-arquivo' && 'Dados carregados pela API, ainda usando o arquivo local como fonte do plano.'}
+                {!isLoadingData && dataError && `${dataError} Usando arquivo local como fallback.`}
+              </span>
+            </div>
+          )}
+
           {/* Filtros */}
           <FilterBar filters={filters} setFilters={setFilters} options={filterOptions} />
 

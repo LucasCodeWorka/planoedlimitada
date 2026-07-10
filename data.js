@@ -3,6 +3,8 @@
 
 import dadosReais from './dados_reais.json';
 
+export const dashboardData = dadosReais;
+
 // Exportar dados reais
 export const filterOptions = dadosReais.filterOptions;
 
